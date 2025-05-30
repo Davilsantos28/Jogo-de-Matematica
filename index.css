@@ -1,12 +1,12 @@
 body {
       font-family: Arial, sans-serif;
-      background: #e2f3f5;
+      background: #78b0a0;
       text-align: center;
       padding: 20px;
     }
 
     h1 {
-      color: #333;
+      color: #000000;
     }
 
     #info {
@@ -23,8 +23,8 @@ body {
     }
 
     .celula {
-      background-color: #fff;
-      border: 2px solid #ccc;
+      background-color: #ffffff;
+      border: 2px solid #292727;
       border-radius: 8px;
       font-size: 1.5em;
       padding: 10px;
